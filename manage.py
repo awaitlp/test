@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+###########
+##########
+
+
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "django01.settings")
     try:
